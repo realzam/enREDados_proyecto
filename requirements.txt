@@ -1,0 +1,4 @@
+prompt_toolkit==1.0.14
+PyInquirer==1.0.3
+regex==2022.4.24
+tweepy==4.10.0
